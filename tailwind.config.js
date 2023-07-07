@@ -5,16 +5,16 @@ module.exports = {
   ],
   theme: {
     extend: {
-      colors:{
-        'maincolor':"#000a14",
-        'textcolor':"#b3c2d1",
+      colors: {
+        'maincolor': "#000a14",
+        'textcolor': "#b3c2d1",
       },
-      
-      fontfamily:{
-        'roboto':"Roboto"
 
-        
-        
+      fontfamily: {
+        'pangolin': "Pangolin"
+
+
+
       }
     },
   },
